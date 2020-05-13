@@ -1,0 +1,10 @@
+hr {
+    height : 2px;
+    background-color : #000;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+}
